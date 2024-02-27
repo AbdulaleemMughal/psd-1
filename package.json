@@ -1,0 +1,16 @@
+{
+  "name": "psd_1",
+  "version": "1.0.0",
+  "description": "This is the first PSD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "PSD",
+    "PSD-1",
+    "Abdulaleem"
+  ],
+  "author": "Abdulaleem",
+  "license": "ISC"
+}
